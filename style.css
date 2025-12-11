@@ -21,7 +21,7 @@ body {
     justify-content: space-between;
     padding: 15px 50px;
     align-items: center;
-    width: 100%;  
+    
     
 
 }
@@ -244,4 +244,5 @@ float: right;
     color: #080707;
     font-size: 14px;
 }
+
 
